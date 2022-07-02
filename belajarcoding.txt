@@ -3,3 +3,5 @@ Belajar Coding
 - HTML
 - CSS 
 - Javascript
+
+HTML dibuat untuk dasar dari tampilan sebuah web. HTML terdiri dari beberapa elemen yang akan dikurung oleh <tag> pada codenya.

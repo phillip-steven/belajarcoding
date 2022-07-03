@@ -1,11 +1,6 @@
 Belajar Coding
+Apa saja yang dibahas dalam repo ini? Berikut daftarnya;
 - Front End Developer
 - HTML
 - CSS 
 - Javascript
-
-
------HTML-----
-HTML dibuat untuk dasar dari tampilan sebuah web. HTML terdiri dari beberapa elemen yang akan dikurung oleh <tag> pada codenya.
-
-Tag yang pertama akan kita pelajari adalah tag <h>. Tag H merupakan tag yang akan menampilkan judul.

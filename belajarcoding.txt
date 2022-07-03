@@ -9,3 +9,5 @@ Belajar Coding
 HTML dibuat untuk dasar dari tampilan sebuah web. HTML terdiri dari beberapa elemen yang akan dikurung oleh <tag> pada codenya.
 
 Tag yang pertama akan kita pelajari adalah tag <h>. Tag H merupakan tag yang akan menampilkan judul.
+Tag <h> akan menampilkan ukuran teks sesuai dengan nomor setelah h. Seperti contoh <h1> akan menampilkan judul paling besar, dan <h6> akan menampilkan
+judul paling kecil.
